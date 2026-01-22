@@ -3,13 +3,14 @@
 </div>
 
 <h3 align="center">
-	<a href="https://ayutheme.com/">Ayu-dark</a> <a href="https://github.com/sxyazi/yazi">Yazi</a>
+  <a href="https://ayutheme.com/">Ayu Dark</a> for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
+A canonical Ayu Dark flavor for Yazi.
 
 ## 👀 Preview
 
-<img src="preview.png" width="600" />
+<img src="preview.png" width="720" />
 
 ## 🎨 Installation
 
