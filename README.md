@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-	Example Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+	<a href="https://ayutheme.com/">Ayu-dark</a> <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
 
@@ -13,10 +13,9 @@
 
 ## 🎨 Installation
 
-<!-- Please replace "username/example" with your repository name. -->
-
 ```sh
-ya pkg add username/example
+ya pkg add iguacel/ayu-dark.yazi
+
 ```
 
 ## ⚙️ Usage
